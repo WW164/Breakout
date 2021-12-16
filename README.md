@@ -1,5 +1,8 @@
 # Breakout
 
+![GitHub repo size](https://img.shields.io/github/repo-size/WW164/Breakout) ![GitHub](https://img.shields.io/github/license/WW164/Breakout)
+
+
 ### Description
 Here is a clone of Breakout game. Players can move the vaus with WASD. The goal is to destory the upper blocks.
 
@@ -9,10 +12,5 @@ Here is a clone of Breakout game. Players can move the vaus with WASD. The goal 
 I developed this game to learn more about Unity and game programming.
 
 ### Specifications for accessing the program
-In order to open this program, you need a 2019.2.20f1 or higher Unity installed on your device.
+In order to open this program, you need Unity 2019.2.20f1 or higher version installed on your device.
 
----
-
-![GitHub repo size](https://img.shields.io/github/repo-size/WW164/Breakout) ![GitHub](https://img.shields.io/github/license/WW164/Breakout)
-
-Copyright (c) 2021 Parinaz Mirbagheri
